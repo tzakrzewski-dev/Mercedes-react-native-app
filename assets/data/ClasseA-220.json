@@ -1,0 +1,4036 @@
+[
+  {
+    "marketId": "fr_FR",
+    "modelId": "1771141_FR3",
+    "configurationId": "AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50",
+    "vehicleSortId": 2466344,
+    "initialPrice": {
+      "price": 44699.19,
+      "netPrice": 36813.33,
+      "currency": "EUR",
+      "taxes": [
+        {
+          "id": "VAT",
+          "amount": 7449.86,
+          "baseAmount": 37249.33,
+          "charge": 0,
+          "rate": 20
+        },
+        {
+          "id": "TK",
+          "amount": 253,
+          "baseAmount": 0,
+          "charge": 0,
+          "rate": 0
+        },
+        {
+          "id": "AK",
+          "amount": 183,
+          "baseAmount": 0,
+          "charge": 0,
+          "rate": 0
+        }
+      ]
+    },
+    "configurationPrice": {
+      "price": 44699.19,
+      "netPrice": 36813.33,
+      "currency": "EUR",
+      "taxes": [
+        {
+          "id": "VAT",
+          "amount": 7449.86,
+          "baseAmount": 37249.33,
+          "charge": 0,
+          "rate": 20
+        },
+        {
+          "id": "TK",
+          "amount": 253,
+          "baseAmount": 0,
+          "charge": 0,
+          "rate": 0
+        },
+        {
+          "id": "AK",
+          "amount": 183,
+          "baseAmount": 0,
+          "charge": 0,
+          "rate": 0
+        }
+      ]
+    },
+    "deltaExtraEquipmentPrice": {
+      "price": 0,
+      "netPrice": 0,
+      "currency": "EUR"
+    },
+    "modelYear": "800",
+    "changeYear": "050",
+    "vehicleComponents": [
+      {
+        "id": "AJ-050",
+        "componentSortId": 342,
+        "name": "Année de modification 09/2",
+        "code": "050",
+        "codeType": "AJ",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": true,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/050?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "AU-651",
+        "componentSortId": 3256,
+        "name": "Similicuir ARTICO / microfibre DINAMICA noir",
+        "code": "651",
+        "codeType": "AU",
+        "componentType": "UPHOLSTERIES",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": false,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/upholstery?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "GC-426",
+        "componentSortId": 2236,
+        "name": "Boite de vitesses automatique 8G-DCT",
+        "description": "Une boîte automatique qui s'adapte à vos souhaits : le programme de conduite vous permet de modifier également les caractéristiques de la boîte de vitesses à double embrayage. Il utilise les 8 rapports soit pour privilégier une conduite efficiente dans une faible plage de régime soit pour mettre en œuvre une dynamique de marche impressionnante. Le rapport suivant étant toujours présélectionné, les accélérations ont lieu sans interruption.",
+        "code": "426",
+        "codeType": "GC",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": true,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/426?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "LE-L",
+        "componentSortId": 7094,
+        "name": "Volant à gauche",
+        "code": "L",
+        "codeType": "LE",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/L?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "LU-696",
+        "componentSortId": 3396,
+        "name": "Noir",
+        "description": "Le choix du coloris de la peinture donne une première impression de vos goûts personnels. D'un point de vue technique, la peinture standard contribue à la longévité de la carrosserie et protège votre véhicule des influences environnementales et de la corrosion.",
+        "code": "696",
+        "codeType": "LU",
+        "componentType": "PAINTS",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": false,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/paint?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "MJ-800",
+        "componentSortId": 3880,
+        "name": "Année modèle",
+        "code": "800",
+        "codeType": "MJ",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": true,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/800?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "PC-431",
+        "componentSortId": 2260,
+        "name": "Palettes de changements de rapports",
+        "code": "431",
+        "codeType": "PC",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/431?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "PC-950",
+        "componentSortId": 4620,
+        "name": "AMG Line",
+        "description": "L'AMG Line vous permet d'affirmer votre sportivité, à l'extérieur comme à l'intérieur. Le kit carrosserie AMG rapproche l'esthétique du véhicule de celle des modèles AMG grâce à des jupes avant et arrière spéciales. Les autres technologies, notamment le train de roulement surbaissé au réglage sportif et la direction directe, renforcent les sensations de conduite.",
+        "code": "950",
+        "codeType": "PC",
+        "componentType": "LINES",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": true,
+        "pseudoCode": false,
+        "includedComponents": {
+          "vehicleComponents": {
+            "SA-772": {
+              "id": "SA-772",
+              "componentSortId": 3729,
+              "name": "Equipement pour AMG Line extérieur",
+              "code": "772",
+              "codeType": "SA",
+              "componentType": "SPECIAL_EQUIPMENT",
+              "priceInformation": {
+                "price": 0,
+                "netPrice": 0,
+                "currency": "EUR",
+                "taxes": [
+                  {
+                    "id": "VAT",
+                    "amount": 0,
+                    "baseAmount": 0,
+                    "charge": 0,
+                    "rate": 20
+                  }
+                ]
+              },
+              "standard": false,
+              "selected": false,
+              "fixed": true,
+              "hidden": false,
+              "pseudoCode": false
+            },
+            "SA-7U4": {
+              "id": "SA-7U4",
+              "componentSortId": 3868,
+              "name": "Sièges sport à l'avant",
+              "description": "L’alliance optimale de la sportivité et du confort : les sièges sport renforcent le maintien latéral en conduite dynamique et se distinguent par un confort sans restriction au quotidien. En option, la climatisation de siège et des garnitures raffinées permettent de mettre encore en valeur les sièges.",
+              "code": "7U4",
+              "codeType": "SA",
+              "componentType": "SPECIAL_EQUIPMENT",
+              "priceInformation": {
+                "price": 0,
+                "netPrice": 0,
+                "currency": "EUR",
+                "taxes": [
+                  {
+                    "id": "VAT",
+                    "amount": 0,
+                    "baseAmount": 0,
+                    "charge": 0,
+                    "rate": 20
+                  }
+                ]
+              },
+              "standard": false,
+              "selected": false,
+              "fixed": true,
+              "hidden": false,
+              "pseudoCode": false
+            }
+          },
+          "componentCategories": []
+        }
+      },
+      {
+        "id": "PC-P44",
+        "componentSortId": 8189,
+        "name": "Pack Stationnement avec caméra de recul",
+        "description": "Ce pack vous permet de vous garer dans les places de stationnement étroites avec une grande facilité. Il n'y a pas plus confortable : L'assistant de stationnement actif avec PARKTRONIC recherche pour vous une place puis vous aide à vous garer. La sérénité est aussi au rendez-vous avec la caméra de recul qui, en procurant une bonne visibilité vers l’arrière, évite de coûteux accrocs sur la carrosserie.",
+        "code": "P44",
+        "codeType": "PC",
+        "componentType": "PACKAGES",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": false,
+        "hidden": false,
+        "pseudoCode": false,
+        "includedComponents": {
+          "vehicleComponents": {
+            "SA-235": {
+              "id": "SA-235",
+              "componentSortId": 1424,
+              "name": "Aide au parking active avec PARKTRONIC",
+              "description": "Oubliez le stress causé par les places de stationnement étroites et gagnez en sérénité. L'assistant de stationnement actif avec PARKTRONIC peut non seulement repérer des places de stationnement adaptées, mais aussi vous aider à vous garer et à vous réinsérer dans le trafic. Il vous aide à manœuvrer et, sur les modèles à boîte automatique, à accélérer, freiner et changer de vitesse.",
+              "code": "235",
+              "codeType": "SA",
+              "componentType": "SPECIAL_EQUIPMENT",
+              "priceInformation": {
+                "price": 0,
+                "netPrice": 0,
+                "currency": "EUR",
+                "taxes": [
+                  {
+                    "id": "VAT",
+                    "amount": 0,
+                    "baseAmount": 0,
+                    "charge": 0,
+                    "rate": 20
+                  }
+                ]
+              },
+              "standard": false,
+              "selected": false,
+              "fixed": false,
+              "hidden": false,
+              "pseudoCode": false
+            }
+          },
+          "componentCategories": []
+        }
+      },
+      {
+        "id": "PC-P49",
+        "componentSortId": 8204,
+        "name": "Pack rétroviseurs",
+        "description": "Les rétroviseurs extérieurs se rabattent électriquement, rendant ainsi le véhicule plus étroit par simple pression sur une touche. Les places de stationnement exiguës deviennent immédiatement accessibles. Cela évite bien des accrocs et des tracas. Les rétroviseurs extérieurs du conducteur et le rétroviseur intérieur peuvent en outre enregistrer toute illumination gênante de l'arrière du véhicule et en neutraliser automatiquement l'effet éblouissant.",
+        "code": "P49",
+        "codeType": "PC",
+        "componentType": "PACKAGES",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "includedComponents": {
+          "vehicleComponents": {
+            "SA-249": {
+              "id": "SA-249",
+              "componentSortId": 1478,
+              "name": "Rétroviseur intérieur et rétroviseur extérieur côté conducteur à commutation jour/nuit automatique",
+              "code": "249",
+              "codeType": "SA",
+              "componentType": "SPECIAL_EQUIPMENT",
+              "priceInformation": {
+                "price": 0,
+                "netPrice": 0,
+                "currency": "EUR",
+                "taxes": [
+                  {
+                    "id": "VAT",
+                    "amount": 0,
+                    "baseAmount": 0,
+                    "charge": 0,
+                    "rate": 20
+                  }
+                ]
+              },
+              "standard": false,
+              "selected": false,
+              "fixed": true,
+              "hidden": false,
+              "pseudoCode": false
+            },
+            "SA-500": {
+              "id": "SA-500",
+              "componentSortId": 2539,
+              "name": "Rétroviseurs extérieurs rabattables électriquement",
+              "code": "500",
+              "codeType": "SA",
+              "componentType": "SPECIAL_EQUIPMENT",
+              "priceInformation": {
+                "price": 0,
+                "netPrice": 0,
+                "currency": "EUR",
+                "taxes": [
+                  {
+                    "id": "VAT",
+                    "amount": 0,
+                    "baseAmount": 0,
+                    "charge": 0,
+                    "rate": 20
+                  }
+                ]
+              },
+              "standard": false,
+              "selected": false,
+              "fixed": true,
+              "hidden": false,
+              "pseudoCode": false
+            }
+          },
+          "componentCategories": []
+        }
+      },
+      {
+        "id": "PC-PYA",
+        "componentSortId": 8527,
+        "name": "Standard Europe",
+        "code": "PYA",
+        "codeType": "PC",
+        "componentType": "PACKAGES",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "includedComponents": {
+          "vehicleComponents": {
+            "SA-548": {
+              "id": "SA-548",
+              "componentSortId": 2770,
+              "name": "MBUX Système multimédia",
+              "code": "548",
+              "codeType": "SA",
+              "componentType": "SPECIAL_EQUIPMENT",
+              "priceInformation": {
+                "price": 0,
+                "netPrice": 0,
+                "currency": "EUR",
+                "taxes": [
+                  {
+                    "id": "VAT",
+                    "amount": 0,
+                    "baseAmount": 0,
+                    "charge": 0,
+                    "rate": 20
+                  }
+                ]
+              },
+              "standard": false,
+              "selected": false,
+              "fixed": false,
+              "hidden": false,
+              "pseudoCode": false
+            },
+            "SA-U26": {
+              "id": "SA-U26",
+              "componentSortId": 9795,
+              "name": "Tapis de sol AMG",
+              "code": "U26",
+              "codeType": "SA",
+              "componentType": "SPECIAL_EQUIPMENT",
+              "priceInformation": {
+                "price": 0,
+                "netPrice": 0,
+                "currency": "EUR",
+                "taxes": [
+                  {
+                    "id": "VAT",
+                    "amount": 0,
+                    "baseAmount": 0,
+                    "charge": 0,
+                    "rate": 20
+                  }
+                ]
+              },
+              "standard": false,
+              "selected": false,
+              "fixed": true,
+              "hidden": false,
+              "pseudoCode": false
+            },
+            "SA-218": {
+              "id": "SA-218",
+              "componentSortId": 1358,
+              "name": "Caméra de recul",
+              "description": "La caméra de recul vous permet de bénéficier de davantage de visibilité et de confort lors des manœuvres. Elle est aussi très utile pour éviter les petits accrocs, rapidement onéreux. L’écran du système multimédia affiche en direct ce qui se passe à l’arrière. En marche arrière, le système indique la trajectoire à suivre en la matérialisant par des lignes de guidage.",
+              "code": "218",
+              "codeType": "SA",
+              "componentType": "SPECIAL_EQUIPMENT",
+              "priceInformation": {
+                "price": 0,
+                "netPrice": 0,
+                "currency": "EUR",
+                "taxes": [
+                  {
+                    "id": "VAT",
+                    "amount": 0,
+                    "baseAmount": 0,
+                    "charge": 0,
+                    "rate": 20
+                  }
+                ]
+              },
+              "standard": false,
+              "selected": false,
+              "fixed": false,
+              "hidden": false,
+              "pseudoCode": false
+            },
+            "SA-20U": {
+              "id": "SA-20U",
+              "componentSortId": 1317,
+              "name": "Prééquipement pour l'autopartage",
+              "description": "Partagez votre véhicule avec des amis et des membres de la famille n'aura jamais été aussi simple - où que soyez. Vous maintenez le contrôle total et vous décidez confortablement via une appli si vous acceptez une utilisation. Via l'application mobile, le véhicule est localisé et déverrouillé. Une clé rangée dans le véhicule n'est activée qu'à partir du début de la location.",
+              "code": "20U",
+              "codeType": "SA",
+              "componentType": "SPECIAL_EQUIPMENT",
+              "priceInformation": {
+                "price": 0,
+                "netPrice": 0,
+                "currency": "EUR",
+                "taxes": [
+                  {
+                    "id": "VAT",
+                    "amount": 0,
+                    "baseAmount": 0,
+                    "charge": 0,
+                    "rate": 20
+                  }
+                ]
+              },
+              "standard": false,
+              "selected": false,
+              "fixed": true,
+              "hidden": false,
+              "pseudoCode": false
+            },
+            "SA-B51": {
+              "id": "SA-B51",
+              "componentSortId": 5159,
+              "name": "Kit TIREFIT",
+              "description": "Une solution transitoire et rapide en cas de pneu légèrement endommagé. Ce produit d'étanchéité injecté par compresseur permet de colmater les dommages dus à des clous ou des éclats de verre. Vous pouvez ainsi vous rendre à l'atelier le plus proche en roulant à une vitesse ne dépassant pas 80 km.",
+              "code": "B51",
+              "codeType": "SA",
+              "componentType": "SPECIAL_EQUIPMENT",
+              "priceInformation": {
+                "price": 0,
+                "netPrice": 0,
+                "currency": "EUR",
+                "taxes": [
+                  {
+                    "id": "VAT",
+                    "amount": 0,
+                    "baseAmount": 0,
+                    "charge": 0,
+                    "rate": 20
+                  }
+                ]
+              },
+              "standard": false,
+              "selected": false,
+              "fixed": false,
+              "hidden": false,
+              "pseudoCode": false
+            },
+            "SA-310": {
+              "id": "SA-310",
+              "componentSortId": 1814,
+              "name": "Double porte-gobelets",
+              "description": "Vous gardez en permanence votre boisson fraîche ou chaude à portée de main, grâce au double porte-gobelet à l'avant de la console centrale. Vous pourrez y transporter en toute sécurité deux bouteilles ou deux gobelets. En déposant le double porte-gobelet, vous pouvez enrichir l'équipement intérieur d'une grande surface de rangement.",
+              "code": "310",
+              "codeType": "SA",
+              "componentType": "SPECIAL_EQUIPMENT",
+              "priceInformation": {
+                "price": 0,
+                "netPrice": 0,
+                "currency": "EUR",
+                "taxes": [
+                  {
+                    "id": "VAT",
+                    "amount": 0,
+                    "baseAmount": 0,
+                    "charge": 0,
+                    "rate": 20
+                  }
+                ]
+              },
+              "standard": false,
+              "selected": false,
+              "fixed": true,
+              "hidden": false,
+              "pseudoCode": false
+            },
+            "SA-446": {
+              "id": "SA-446",
+              "componentSortId": 2311,
+              "name": "Pavé tactile Touchpad",
+              "description": "Le pavé tactile vous permet d'utiliser l'écran du système d'info-divertissement, comme avec un smartphone. Déplacez ou agrandissez le contenu d'un simple mouvement d'un ou de plusieurs doigts. Chaque saisie est assortie d’un retour tactile. Si vous souhaitez entrer des adresses ou des numéros de téléphone, le pavé tactile reconnaît votre écriture.",
+              "code": "446",
+              "codeType": "SA",
+              "componentType": "SPECIAL_EQUIPMENT",
+              "priceInformation": {
+                "price": 0,
+                "netPrice": 0,
+                "currency": "EUR",
+                "taxes": [
+                  {
+                    "id": "VAT",
+                    "amount": 0,
+                    "baseAmount": 0,
+                    "charge": 0,
+                    "rate": 20
+                  }
+                ]
+              },
+              "standard": false,
+              "selected": false,
+              "fixed": true,
+              "hidden": false,
+              "pseudoCode": false
+            },
+            "SA-677": {
+              "id": "SA-677",
+              "componentSortId": 3331,
+              "name": "Train de roulement confort avec châssis surbaissé",
+              "description": "Le train de roulement confort constitue un tout particulièrement dynamique. Il améliore aussi nettement la tenue de route. Surbaissé de 15 millimètres, il fait appel à des ressorts et des amortisseurs au réglage spécifique, nettement plus sportifs que sur la version standard.",
+              "code": "677",
+              "codeType": "SA",
+              "componentType": "SPECIAL_EQUIPMENT",
+              "priceInformation": {
+                "price": 0,
+                "netPrice": 0,
+                "currency": "EUR",
+                "taxes": [
+                  {
+                    "id": "VAT",
+                    "amount": 0,
+                    "baseAmount": 0,
+                    "charge": 0,
+                    "rate": 20
+                  }
+                ]
+              },
+              "standard": false,
+              "selected": false,
+              "fixed": false,
+              "hidden": false,
+              "pseudoCode": false
+            },
+            "SA-355": {
+              "id": "SA-355",
+              "componentSortId": 1952,
+              "name": "Fonctionnalités élargies MBUX",
+              "description": "Créez un lien émotionnel fort – faites du véhicule de votre choix un véhicule à votre image. Car les fonctions MBUX élargies s'adaptent pleinement à vous. Dites « Hey Mercedes » et vos MBUX se tiennent prêts à exécuter vos instructions. Profils personnels, fonctions prédictives et borne Wi-Fi redéfinissent la notion de connexion numérique.",
+              "code": "355",
+              "codeType": "SA",
+              "componentType": "SPECIAL_EQUIPMENT",
+              "priceInformation": {
+                "price": 0,
+                "netPrice": 0,
+                "currency": "EUR",
+                "taxes": [
+                  {
+                    "id": "VAT",
+                    "amount": 0,
+                    "baseAmount": 0,
+                    "charge": 0,
+                    "rate": 20
+                  }
+                ]
+              },
+              "standard": false,
+              "selected": false,
+              "fixed": true,
+              "hidden": false,
+              "pseudoCode": false
+            }
+          },
+          "componentCategories": []
+        }
+      },
+      {
+        "id": "PC-PYI",
+        "componentSortId": 8536,
+        "name": "AMG Line",
+        "code": "PYI",
+        "codeType": "PC",
+        "componentType": "PACKAGES",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": false,
+        "hidden": false,
+        "pseudoCode": false,
+        "includedComponents": {
+          "vehicleComponents": {
+            "SA-916": {
+              "id": "SA-916",
+              "componentSortId": 4477,
+              "name": "Réservoir de carburant de 51 l",
+              "description": "Avec le réservoir de carburant porté à 51 litres, vous vous arrêterez nettement moins souvent à la pompe. Le réservoir de carburant de capacité accrue vous procure un sentiment de plus grande liberté, en particulier sur les longs trajets.",
+              "code": "916",
+              "codeType": "SA",
+              "componentType": "SPECIAL_EQUIPMENT",
+              "priceInformation": {
+                "price": 0,
+                "netPrice": 0,
+                "currency": "EUR",
+                "taxes": [
+                  {
+                    "id": "VAT",
+                    "amount": 0,
+                    "baseAmount": 0,
+                    "charge": 0,
+                    "rate": 20
+                  }
+                ]
+              },
+              "standard": false,
+              "selected": false,
+              "fixed": true,
+              "hidden": false,
+              "pseudoCode": false
+            },
+            "SA-580": {
+              "id": "SA-580",
+              "componentSortId": 2931,
+              "name": "Climatisation automatique THERMATIC",
+              "description": "Le climatiseur automatique THERMATIC régule la température que vous avez sélectionnée. Quelles que soient la saison et la température extérieure, vous vous sentez toujours bien à bord. Votre concentration reste maximale, même au plus chaud de l’été.",
+              "code": "580",
+              "codeType": "SA",
+              "componentType": "SPECIAL_EQUIPMENT",
+              "priceInformation": {
+                "price": 0,
+                "netPrice": 0,
+                "currency": "EUR",
+                "taxes": [
+                  {
+                    "id": "VAT",
+                    "amount": 0,
+                    "baseAmount": 0,
+                    "charge": 0,
+                    "rate": 20
+                  }
+                ]
+              },
+              "standard": false,
+              "selected": false,
+              "fixed": false,
+              "hidden": false,
+              "pseudoCode": false
+            },
+            "SA-632": {
+              "id": "SA-632",
+              "componentSortId": 3190,
+              "name": "Projecteurs hautes performances à LED",
+              "description": "Les phares LED hautes performances renforcent la sécurité de nuit et affichent une esthétique du plus bel effet, à nulle autre pareille. Grâce à la technologie LED, ils éclairent mieux la chaussée que les phares classiques et sont moins énergivores.",
+              "code": "632",
+              "codeType": "SA",
+              "componentType": "SPECIAL_EQUIPMENT",
+              "priceInformation": {
+                "price": 0,
+                "netPrice": 0,
+                "currency": "EUR",
+                "taxes": [
+                  {
+                    "id": "VAT",
+                    "amount": 0,
+                    "baseAmount": 0,
+                    "charge": 0,
+                    "rate": 20
+                  }
+                ]
+              },
+              "standard": false,
+              "selected": false,
+              "fixed": false,
+              "hidden": false,
+              "pseudoCode": false
+            }
+          },
+          "componentCategories": []
+        }
+      },
+      {
+        "id": "PC-PYM",
+        "componentSortId": 8541,
+        "name": "Pack Advantage",
+        "code": "PYM",
+        "codeType": "PC",
+        "componentType": "PACKAGES",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": false,
+        "hidden": false,
+        "pseudoCode": false,
+        "includedComponents": {
+          "vehicleComponents": {
+            "SA-859": {
+              "id": "SA-859",
+              "componentSortId": 4167,
+              "name": "Ecran média 10''",
+              "description": "L'écran média haute résolution vous connecte en grand format (10,25\") au véhicule. Il réagit en mode tactile à vos instructions. Des symboles affichés sur l'écran facilitent le pilotage et favorisent la concentration. Un plaisir esthétique ultime : La combinaison de l'écran média et de l'écran pour les instruments élargi donne naissance à un poste de conduite grand écran.",
+              "code": "859",
+              "codeType": "SA",
+              "componentType": "SPECIAL_EQUIPMENT",
+              "priceInformation": {
+                "price": 0,
+                "netPrice": 0,
+                "currency": "EUR",
+                "taxes": [
+                  {
+                    "id": "VAT",
+                    "amount": 0,
+                    "baseAmount": 0,
+                    "charge": 0,
+                    "rate": 20
+                  }
+                ]
+              },
+              "standard": false,
+              "selected": false,
+              "fixed": true,
+              "hidden": false,
+              "pseudoCode": false
+            },
+            "SA-365": {
+              "id": "SA-365",
+              "componentSortId": 1987,
+              "name": "Navigation par disque dur",
+              "description": "Gagnez du temps avec une navigation rapide par disque dur offrant plusieurs possibilités de saisie par commande tactile ou vocale. L’affichage 3D, notamment des sites touristiques, contribue au plaisir des yeux. Le système intelligent et fiable vous conduit à destination en exploitant aussi bien les données locales que les informations en ligne les plus actuelles.",
+              "code": "365",
+              "codeType": "SA",
+              "componentType": "SPECIAL_EQUIPMENT",
+              "priceInformation": {
+                "price": 0,
+                "netPrice": 0,
+                "currency": "EUR",
+                "taxes": [
+                  {
+                    "id": "VAT",
+                    "amount": 0,
+                    "baseAmount": 0,
+                    "charge": 0,
+                    "rate": 20
+                  }
+                ]
+              },
+              "standard": false,
+              "selected": false,
+              "fixed": true,
+              "hidden": false,
+              "pseudoCode": false
+            }
+          },
+          "componentCategories": []
+        }
+      },
+      {
+        "id": "PC-U59",
+        "componentSortId": 9853,
+        "name": "Pack Confort sièges",
+        "description": "Le Pack Confort sièges, qui prévoit de nombreuses possibilités de réglage, vous offre une position d’assise idéale. Il permet à tous les conducteurs de trouver le réglage ergonomique qui leur convient. Les personnes de grande taille apprécieront particulièrement le coussin d’assise extensible : il offre jusqu’à six centimètres de plus pour les cuisses.",
+        "code": "U59",
+        "codeType": "PC",
+        "componentType": "PACKAGES",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false
+      },
+      {
+        "id": "PC-U62",
+        "componentSortId": 9859,
+        "name": "Pack Visibilité",
+        "description": "Des sources de lumière multiples et esthétiques : des verres transparents créent par exemple un effet cristal tridimensionnel dans l’unité de commande au toit. Pour jeter rapidement un coup d’œil ou pour se maquiller, le miroir de courtoisie est éclairé dans le pare-soleil. Autre équipement conçu pour simplifier la vie : le compartiment à lunettes côté conducteur.",
+        "code": "U62",
+        "codeType": "PC",
+        "componentType": "PACKAGES",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": true,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "includedComponents": {
+          "vehicleComponents": {
+            "SA-B18": {
+              "id": "SA-B18",
+              "componentSortId": 5110,
+              "name": "Range lunettes intégré",
+              "code": "B18",
+              "codeType": "SA",
+              "componentType": "SPECIAL_EQUIPMENT",
+              "priceInformation": {
+                "price": 0,
+                "netPrice": 0,
+                "currency": "EUR",
+                "taxes": [
+                  {
+                    "id": "VAT",
+                    "amount": 0,
+                    "baseAmount": 0,
+                    "charge": 0,
+                    "rate": 20
+                  }
+                ]
+              },
+              "standard": false,
+              "selected": false,
+              "fixed": true,
+              "hidden": false,
+              "pseudoCode": false
+            },
+            "SA-543": {
+              "id": "SA-543",
+              "componentSortId": 2754,
+              "name": "Pare soleil avec mirroir de courtoisie éclairé",
+              "code": "543",
+              "codeType": "SA",
+              "componentType": "SPECIAL_EQUIPMENT",
+              "priceInformation": {
+                "price": 0,
+                "netPrice": 0,
+                "currency": "EUR",
+                "taxes": [
+                  {
+                    "id": "VAT",
+                    "amount": 0,
+                    "baseAmount": 0,
+                    "charge": 0,
+                    "rate": 20
+                  }
+                ]
+              },
+              "standard": false,
+              "selected": false,
+              "fixed": true,
+              "hidden": false,
+              "pseudoCode": false
+            },
+            "SA-345": {
+              "id": "SA-345",
+              "componentSortId": 1909,
+              "name": "Essuie-glaces avec détecteur de pluie",
+              "code": "345",
+              "codeType": "SA",
+              "componentType": "SPECIAL_EQUIPMENT",
+              "priceInformation": {
+                "price": 0,
+                "netPrice": 0,
+                "currency": "EUR",
+                "taxes": [
+                  {
+                    "id": "VAT",
+                    "amount": 0,
+                    "baseAmount": 0,
+                    "charge": 0,
+                    "rate": 20
+                  }
+                ]
+              },
+              "standard": true,
+              "selected": false,
+              "fixed": true,
+              "hidden": false,
+              "pseudoCode": false
+            }
+          },
+          "componentCategories": []
+        }
+      },
+      {
+        "id": "SA-07B",
+        "componentSortId": 475,
+        "name": "Manuel d'utilisation en français",
+        "code": "07B",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": false,
+        "hidden": true,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/07B?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-08U",
+        "componentSortId": 520,
+        "name": "Pré équipement pour réglages du véhicule à distance",
+        "description": "Contrôle total, partout et à tout moment. Avec l’application Mercedes me sur votre smartphone, vous pouvez également accéder à des informations et modifier les paramètres à distance. Ainsi, vous pouvez, par exemple, ajuster la température appropriée pour l’intérieur, envoyer des adresses à votre système de navigation ou verrouiller les portes.",
+        "code": "08U",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/08U?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-09U",
+        "componentSortId": 563,
+        "name": "Pré équipement pour suivi du véhicule à distance",
+        "description": "Toujours là pour vous : Le Suivi du véhicule vous permet de vous connecter à la voiture en vous assurant en permanence des informations privilégiées. De cette manière, vous savez à tout moment le lieu où se trouve votre véhicule et vous pouvez même décider de la zone dans laquelle il doit s’arrêter. Vous êtes immédiatement informé même des mouvements non souhaités.",
+        "code": "09U",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/09U?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-20U",
+        "componentSortId": 1317,
+        "name": "Prééquipement pour l'autopartage",
+        "description": "Partagez votre véhicule avec des amis et des membres de la famille n'aura jamais été aussi simple - où que soyez. Vous maintenez le contrôle total et vous décidez confortablement via une appli si vous acceptez une utilisation. Via l'application mobile, le véhicule est localisé et déverrouillé. Une clé rangée dans le véhicule n'est activée qu'à partir du début de la location.",
+        "code": "20U",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/20U?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-213",
+        "componentSortId": 1334,
+        "name": "Direction paramétrique",
+        "description": "Les avantages de la direction directe se ressentent dans tous les virages. En effet, le système s'adapte à l'angle de braquage grâce à une démultiplication variable. La direction est plus franche, la conduite plus sportive et le plaisir décuplé !",
+        "code": "213",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": false,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/213?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-218",
+        "componentSortId": 1358,
+        "name": "Caméra de recul",
+        "description": "La caméra de recul vous permet de bénéficier de davantage de visibilité et de confort lors des manœuvres. Elle est aussi très utile pour éviter les petits accrocs, rapidement onéreux. L’écran du système multimédia affiche en direct ce qui se passe à l’arrière. En marche arrière, le système indique la trajectoire à suivre en la matérialisant par des lignes de guidage.",
+        "code": "218",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": false,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/218?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-235",
+        "componentSortId": 1424,
+        "name": "Aide au parking active avec PARKTRONIC",
+        "description": "Oubliez le stress causé par les places de stationnement étroites et gagnez en sérénité. L'assistant de stationnement actif avec PARKTRONIC peut non seulement repérer des places de stationnement adaptées, mais aussi vous aider à vous garer et à vous réinsérer dans le trafic. Il vous aide à manœuvrer et, sur les modèles à boîte automatique, à accélérer, freiner et changer de vitesse.",
+        "code": "235",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": false,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/235?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-243",
+        "componentSortId": 1460,
+        "name": "Avertisseur de franchissement de ligne actif",
+        "description": "Si vous franchissez involontairement une ligne discontinue ou continue, le système peut vous alerter par une vibration du volant. Si la ligne est continue, ou si elle est discontinue mais que la voie opposée n’est pas libre, l’assistant peut intervenir en déclenchant un freinage unilatéral.",
+        "code": "243",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": false,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/243?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-249",
+        "componentSortId": 1478,
+        "name": "Rétroviseur intérieur et rétroviseur extérieur côté conducteur à commutation jour/nuit automatique",
+        "code": "249",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/249?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-258",
+        "componentSortId": 1522,
+        "name": "Freinage d'urgence assisté actif",
+        "description": "L'assistant de freinage actif peut vous aider à éviter des télescopages et des accidents avec des piétons en train de traverser ou des cyclistes. Outre une alerte anticollision et de distance, il offre une assistance au freinage adaptive si vous ne freinez pas assez vigoureusement. Si nécessaire, il peut déclencher un freinage d'urgence autonome.",
+        "code": "258",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": false,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/258?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-270",
+        "componentSortId": 1577,
+        "name": "Antenne GPS",
+        "code": "270",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/270?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-286",
+        "componentSortId": 1642,
+        "name": "Filet au dos des sièges avant",
+        "code": "286",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/286?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-287",
+        "componentSortId": 1644,
+        "name": "Banquette arrière rabattable",
+        "code": "287",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/287?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-294",
+        "componentSortId": 1676,
+        "name": "Airbag genoux côté conducteur",
+        "description": "En cas de collision frontale grave, l’airbag genoux protège vos jambes du contact avec la colonne de direction ou avec la planche de bord. Cela permet d’éviter ou d’atténuer les blessures. Le coussin d’air se déploie en quelques millisecondes, stabilisant ainsi l’ensemble du corps. De ce fait, l’ensemble du système de retenue, ceinture de sécurité comprise, offre un maximum d’efficacité.",
+        "code": "294",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/294?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-310",
+        "componentSortId": 1814,
+        "name": "Double porte-gobelets",
+        "description": "Vous gardez en permanence votre boisson fraîche ou chaude à portée de main, grâce au double porte-gobelet à l'avant de la console centrale. Vous pourrez y transporter en toute sécurité deux bouteilles ou deux gobelets. En déposant le double porte-gobelet, vous pouvez enrichir l'équipement intérieur d'une grande surface de rangement.",
+        "code": "310",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/310?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-345",
+        "componentSortId": 1909,
+        "name": "Essuie-glaces avec détecteur de pluie",
+        "code": "345",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": true,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/345?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-351",
+        "componentSortId": 1939,
+        "name": "Système d’appel d’urgence Mercedes-Benz",
+        "description": "En cas d'urgence, le système d'appel d'urgence Mercedes-Benz peut assurer un gain de temps déterminant. Lorsqu'il détecte un accident, il passe un appel d'urgence automatiquement grâce à un module de communication qui intègre une carte SIM. Cet appel permet de raccourcir le délai d'intervention des secours. L'appel peut aussi être passé manuellement pour organiser l'assistance.",
+        "code": "351",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/351?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-355",
+        "componentSortId": 1952,
+        "name": "Fonctionnalités élargies MBUX",
+        "description": "Créez un lien émotionnel fort – faites du véhicule de votre choix un véhicule à votre image. Car les fonctions MBUX élargies s'adaptent pleinement à vous. Dites « Hey Mercedes » et vos MBUX se tiennent prêts à exécuter vos instructions. Profils personnels, fonctions prédictives et borne Wi-Fi redéfinissent la notion de connexion numérique.",
+        "code": "355",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/355?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-362",
+        "componentSortId": 1982,
+        "name": "Module de communication (LTE) pour l'utilisation des services Mercedes me connect",
+        "description": "Le module de communication (LTE) vous offre un avantage manifeste en matière de confort et de sécurité. Il assure une connexion entre le véhicule et Internet, vous permettant ainsi de profiter de services utiles, notamment du service Live Traffic Information de Mercedes me connect. Deux antennes relais et une carte SIM LTE permettent d'assurer une connexion rapide.",
+        "code": "362",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/362?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-365",
+        "componentSortId": 1987,
+        "name": "Navigation par disque dur",
+        "description": "Gagnez du temps avec une navigation rapide par disque dur offrant plusieurs possibilités de saisie par commande tactile ou vocale. L’affichage 3D, notamment des sites touristiques, contribue au plaisir des yeux. Le système intelligent et fiable vous conduit à destination en exploitant aussi bien les données locales que les informations en ligne les plus actuelles.",
+        "code": "365",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/365?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-367",
+        "componentSortId": 1991,
+        "name": "Pré équipement pour Live Traffic Information",
+        "description": "Arrivez plus rapidement à votre destination en toute sérénité et en empruntant le meilleur chemin. Le service Live Traffic Information reçoit des infos trafic en temps réel plus précises et plus actuelles que sur les systèmes habituels et optimise le guidage routier dynamique. Que ce soit pendant les heures de pointe ou lors des voyages : Vous pouvez réagir à de nombreuses situations et facilement contourner des embouteillages et une circulation dans les encombrements.",
+        "code": "367",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/367?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-440",
+        "componentSortId": 2294,
+        "name": "Régulateur de vitesse TEMPOMAT avec limiteur de vitesse",
+        "description": "Vous voulez privilégier une conduite détendue et économique, surtout sur les longs trajets ? Choisissez pour ce faire la vitesse souhaitée. Votre véhicule se charge ensuite de faire en sorte qu'elle soit respectée. Parallèlement à la vitesse de croisière, le limiteur de vitesse vous aide à ne pas dépasser une vitesse maximale. Conséquence : la sécurité est accrue et vous évitez les amendes onéreuses.",
+        "code": "440",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": true,
+        "selected": true,
+        "fixed": false,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/440?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-446",
+        "componentSortId": 2311,
+        "name": "Pavé tactile Touchpad",
+        "description": "Le pavé tactile vous permet d'utiliser l'écran du système d'info-divertissement, comme avec un smartphone. Déplacez ou agrandissez le contenu d'un simple mouvement d'un ou de plusieurs doigts. Chaque saisie est assortie d’un retour tactile. Si vous souhaitez entrer des adresses ou des numéros de téléphone, le pavé tactile reconnaît votre écriture.",
+        "code": "446",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/446?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-475",
+        "componentSortId": 2391,
+        "name": "Contrôle de la pression des pneus",
+        "description": "Le système surveille pour vous la pression des pneus et vous avertit en cas de chute de pression. Vous pouvez ainsi réagir plus vite lorsque cette situation dangereuse se produit. Une pression des pneus trop faible suffit à rallonger la distance de freinage. En cas d'avertissement, il est donc important de regonfler les pneus le plus vite possible. Une pression des pneus correcte accroît en outre le kilométrage.",
+        "code": "475",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/475?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-500",
+        "componentSortId": 2539,
+        "name": "Rétroviseurs extérieurs rabattables électriquement",
+        "code": "500",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/500?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-504",
+        "componentSortId": 2554,
+        "name": "Avertisseur de limitation de vitesse",
+        "description": "L’avertisseur de limitation de vitesse vous permet de respecter les limitations facilement et d’éviter des contraventions. Le système vous indique ce qui est autorisé : grâce à une caméra, il détecte la limitation en vigueur et l’affiche sur le combiné d’instruments. Il détecte même les panonceaux supplémentaires, notamment pour les limitations par temps de pluie.",
+        "code": "504",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": false,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/504?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-51U",
+        "componentSortId": 2640,
+        "name": "Ciel de pavillon en tissu noir",
+        "code": "51U",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/51U?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-537",
+        "componentSortId": 2721,
+        "name": "Autoradio numérique pour normes DAB, DMB et DAB+",
+        "description": "L’autoradio numérique vous offre encore davantage d’informations et de divertissement grâce à un nombre de programmes nettement plus important. Sélectionnez vos stations personnelles préférées. La réception nette, sans bruits parasites augmente par ailleurs le plaisir auditif.",
+        "code": "537",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/537?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-543",
+        "componentSortId": 2754,
+        "name": "Pare soleil avec mirroir de courtoisie éclairé",
+        "code": "543",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/543?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-548",
+        "componentSortId": 2770,
+        "name": "MBUX Système multimédia",
+        "code": "548",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": false,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/548?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-580",
+        "componentSortId": 2931,
+        "name": "Climatisation automatique THERMATIC",
+        "description": "Le climatiseur automatique THERMATIC régule la température que vous avez sélectionnée. Quelles que soient la saison et la température extérieure, vous vous sentez toujours bien à bord. Votre concentration reste maximale, même au plus chaud de l’été.",
+        "code": "580",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": false,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/580?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-632",
+        "componentSortId": 3190,
+        "name": "Projecteurs hautes performances à LED",
+        "description": "Les phares LED hautes performances renforcent la sécurité de nuit et affichent une esthétique du plus bel effet, à nulle autre pareille. Grâce à la technologie LED, ils éclairent mieux la chaussée que les phares classiques et sont moins énergivores.",
+        "code": "632",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": false,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/632?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-677",
+        "componentSortId": 3331,
+        "name": "Train de roulement confort avec châssis surbaissé",
+        "description": "Le train de roulement confort constitue un tout particulièrement dynamique. Il améliore aussi nettement la tenue de route. Surbaissé de 15 millimètres, il fait appel à des ressorts et des amortisseurs au réglage spécifique, nettement plus sportifs que sur la version standard.",
+        "code": "677",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": false,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/677?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-73B",
+        "componentSortId": 3593,
+        "name": "Vide-poche sur la console centrale avec couvercle à enrouleur",
+        "description": "Le couvercle à rideau du vide-poche de la console centrale est un cache élégant réalisé dans un matériau haut de gamme. Avec cet équipement très esthétique, l’habitacle semble encore mieux rangé et tous les objets importants sont à portée de main. Le rangement proprement dit, très pratique, peut accueillir tous les menus objets du quotidien : smartphone, portefeuille, clés, etc.",
+        "code": "73B",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/73B?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-772",
+        "componentSortId": 3729,
+        "name": "Equipement pour AMG Line extérieur",
+        "code": "772",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/772?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-79B",
+        "componentSortId": 3837,
+        "name": "Préinstallation pour radio digitale",
+        "code": "79B",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/79B?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-7U4",
+        "componentSortId": 3868,
+        "name": "Sièges sport à l'avant",
+        "description": "L’alliance optimale de la sportivité et du confort : les sièges sport renforcent le maintien latéral en conduite dynamique et se distinguent par un confort sans restriction au quotidien. En option, la climatisation de siège et des garnitures raffinées permettent de mettre encore en valeur les sièges.",
+        "code": "7U4",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/7U4?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-859",
+        "componentSortId": 4167,
+        "name": "Ecran média 10''",
+        "description": "L'écran média haute résolution vous connecte en grand format (10,25\") au véhicule. Il réagit en mode tactile à vos instructions. Des symboles affichés sur l'écran facilitent le pilotage et favorisent la concentration. Un plaisir esthétique ultime : La combinaison de l'écran média et de l'écran pour les instruments élargi donne naissance à un poste de conduite grand écran.",
+        "code": "859",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/859?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-916",
+        "componentSortId": 4477,
+        "name": "Réservoir de carburant de 51 l",
+        "description": "Avec le réservoir de carburant porté à 51 litres, vous vous arrêterez nettement moins souvent à la pompe. Le réservoir de carburant de capacité accrue vous procure un sentiment de plus grande liberté, en particulier sur les longs trajets.",
+        "code": "916",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/916?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-927",
+        "componentSortId": 4524,
+        "name": "Norme Euro 6",
+        "code": "927",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/927?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-968",
+        "componentSortId": 4699,
+        "name": "Document COC Euro 6",
+        "code": "968",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": true,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/968?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-971",
+        "componentSortId": 4718,
+        "name": "Filtre à particules pour moteurs diesel",
+        "code": "971",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": true,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/971?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-B18",
+        "componentSortId": 5110,
+        "name": "Range lunettes intégré",
+        "code": "B18",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/B18?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-B51",
+        "componentSortId": 5159,
+        "name": "Kit TIREFIT",
+        "description": "Une solution transitoire et rapide en cas de pneu légèrement endommagé. Ce produit d'étanchéité injecté par compresseur permet de colmater les dommages dus à des clous ou des éclats de verre. Vous pouvez ainsi vous rendre à l'atelier le plus proche en roulant à une vitesse ne dépassant pas 80 km.",
+        "code": "B51",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": false,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/B51?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-B59",
+        "componentSortId": 5174,
+        "name": "DYNAMIC SELECT",
+        "description": "Conduisez selon votre humeur ! Avec DYNAMIC SELECT, une simple pression sur un bouton suffit pour sélectionner différents programmes de conduite qui commandent notamment le moteur, la boîte de vitesses, le train de roulement et la direction. En mode « Sport », vous bénéficiez d’une conduite résolument dynamique. Dans le programme de base « Comfort », les caractéristiques sont très équilibrées. En mode « ECO », par contre, l’efficience prime sur tout le reste : vous économisez du carburant et de l’argent.",
+        "code": "B59",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": true,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/B59?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-L5C",
+        "componentSortId": 7231,
+        "name": "Volant sport multifonction en cuir Nappa",
+        "description": "Le volant sport multifonction en cuir Nappa, doté de blocs de commande chromés, possède un méplat dans sa partie inférieure et des perforations au niveau des zones de préhension. Il se prête donc admirablement à une conduite sportive. Non seulement cela se voit, mais cela se sent aussi immédiatement au toucher. Le cuir Nappa souple, particulièrement haut de gamme, constitue à lui seul un gage de qualité.",
+        "code": "L5C",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/L5C?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-R01",
+        "componentSortId": 8665,
+        "name": "Pneus été",
+        "code": "R01",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": false,
+        "hidden": true,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/R01?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-RQS",
+        "componentSortId": 9100,
+        "name": "Jantes alliage AMG 45,7 cm (18'') à 5 doubles branches",
+        "description": "<b>Jante alliage AMG 45,7 cm (18\") à 5 branches</b>, optimisation aérodynamique, finition gris trémolite/naturel brillant, monte 225/45 R18 sur 7,5J x 18 ET49",
+        "code": "RQS",
+        "codeType": "SA",
+        "componentType": "WHEELS",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": false,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/rim?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-U01",
+        "componentSortId": 9750,
+        "name": "Affichage de l’état des ceintures arrière sur le combiné d’instruments",
+        "code": "U01",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/U01?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-U10",
+        "componentSortId": 9764,
+        "name": "Désactivation automatique de l'airbag passager",
+        "description": "Ce système désactive automatiquement l’airbag passager dès qu’il détecte un siège enfant placé dos à la route ou que le siège passager est inoccupé. Le siège enfant ne doit pas forcément comporter un transpondeur. Si le système détecte un adulte sur le siège, il active automatiquement l’airbag afin de minimiser les erreurs de commande.",
+        "code": "U10",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/U10?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-U26",
+        "componentSortId": 9795,
+        "name": "Tapis de sol AMG",
+        "code": "U26",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/U26?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-U55",
+        "componentSortId": 9848,
+        "name": "Essieu arrière multibras",
+        "code": "U55",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": true,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/U55?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-U60",
+        "componentSortId": 9854,
+        "name": "Capot moteur actif pour la protection des piétons",
+        "code": "U60",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/U60?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SA-U79",
+        "componentSortId": 9886,
+        "name": "Système de contrôle des émissions Diesel BlueTEC incluant réservoir d'AdBlue®",
+        "code": "U79",
+        "codeType": "SA",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": false,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/U79?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SC-084",
+        "componentSortId": 496,
+        "name": "WIRELESS TELEPHONE CHARGING FRONT AND ANTENNA",
+        "code": "084",
+        "codeType": "SC",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": true,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/084?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SC-085",
+        "componentSortId": 500,
+        "name": "CONVERSION WORLD MANUFACTURER TO MERCEDES-BENZ AG",
+        "code": "085",
+        "codeType": "SC",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": true,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/085?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SC-0B2",
+        "componentSortId": 569,
+        "name": "PRODUCTION LOCATION VEHICLE RASTATT",
+        "code": "0B2",
+        "codeType": "SC",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": true,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/0B2?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SC-189",
+        "componentSortId": 1100,
+        "name": "CONVERSION CO2MPAS-3",
+        "code": "189",
+        "codeType": "SC",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": true,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/189?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SC-1B3",
+        "componentSortId": 1181,
+        "name": "Techn. Kommunikationsmodulvariante für ECE",
+        "code": "1B3",
+        "codeType": "SC",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": true,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/1B3?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SC-1U5",
+        "componentSortId": 1249,
+        "name": "GUMMIGELAGERTES LENKGETRIEBE",
+        "code": "1U5",
+        "codeType": "SC",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": true,
+        "selected": true,
+        "fixed": true,
+        "hidden": true,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/1U5?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SC-2U1",
+        "componentSortId": 1748,
+        "name": "Plaque devant radiateur",
+        "code": "2U1",
+        "codeType": "SC",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": true,
+        "selected": true,
+        "fixed": true,
+        "hidden": true,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/2U1?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SC-2U8",
+        "componentSortId": 1757,
+        "name": "Réfrigérant alternative",
+        "code": "2U8",
+        "codeType": "SC",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": true,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/2U8?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SC-3U6",
+        "componentSortId": 2136,
+        "name": "HU LAENDERSET FUER ECE/ROW",
+        "code": "3U6",
+        "codeType": "SC",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": false,
+        "hidden": true,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/3U6?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SC-502",
+        "componentSortId": 2546,
+        "name": "Mise à jour pluriannuelle pour COMAND",
+        "code": "502",
+        "codeType": "SC",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": true,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/502?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SC-51B",
+        "componentSortId": 2632,
+        "name": "EURO-NCAP",
+        "code": "51B",
+        "codeType": "SC",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": true,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/51B?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SC-6P5",
+        "componentSortId": 3417,
+        "name": "Steering code for Code 475",
+        "code": "6P5",
+        "codeType": "SC",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": true,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/6P5?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SC-6U0",
+        "componentSortId": 3429,
+        "name": "Sonorité sport",
+        "code": "6U0",
+        "codeType": "SC",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": true,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/6U0?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SC-8U6",
+        "componentSortId": 4397,
+        "name": "Commande au volant pour l'assistant de distance actif DISTRONIC",
+        "code": "8U6",
+        "codeType": "SC",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": true,
+        "selected": true,
+        "fixed": true,
+        "hidden": true,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/8U6?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SC-8U8",
+        "componentSortId": 4401,
+        "name": "Système de retenue pour enfant i-Size",
+        "description": "Pour que vos petits passagers voyagent eux aussi en toute sécurité ! Le système permet une fixation aisée et rapide des sièges enfants i-Size à l'arrière pour une protection maximale de votre enfant en cas d'accident. Les points d'ancrage Top Tether offrent une sécurité accrue grâce à l'ancrage du siège enfant derrière les appuie-têtes arrière.",
+        "code": "8U8",
+        "codeType": "SC",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": true,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/8U8?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SC-98B",
+        "componentSortId": 4786,
+        "name": "Teilkuehlerjalousie oben",
+        "code": "98B",
+        "codeType": "SC",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": true,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/98B?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SC-998",
+        "componentSortId": 4839,
+        "name": "Steuercode Umstellung WLTP mit RDE",
+        "code": "998",
+        "codeType": "SC",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": true,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/998?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SC-B09",
+        "componentSortId": 5089,
+        "name": "Compresseur frigorifique avec embrayage électromagnétique",
+        "code": "B09",
+        "codeType": "SC",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": true,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/B09?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SC-K13",
+        "componentSortId": 7002,
+        "name": "Intervalle de maintenance 25 000 km",
+        "code": "K13",
+        "codeType": "SC",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": true,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/K13?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SC-PXV",
+        "componentSortId": 8521,
+        "name": "Steuercode für Werkszuordnung",
+        "code": "PXV",
+        "codeType": "SC",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": true,
+        "hidden": true,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/PXV?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      },
+      {
+        "id": "SC-V50",
+        "componentSortId": 10060,
+        "name": "indice de vitesse et de charge 91W",
+        "code": "V50",
+        "codeType": "SC",
+        "componentType": "SPECIAL_EQUIPMENT",
+        "priceInformation": {
+          "price": 0,
+          "netPrice": 0,
+          "currency": "EUR",
+          "taxes": [
+            {
+              "id": "VAT",
+              "amount": 0,
+              "baseAmount": 0,
+              "charge": 0,
+              "rate": 20
+            }
+          ]
+        },
+        "standard": false,
+        "selected": true,
+        "fixed": false,
+        "hidden": true,
+        "pseudoCode": false,
+        "_links": {
+          "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/components/equipments/V50?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+        }
+      }
+    ],
+    "technicalInformation": {
+      "engine": {
+        "fuelType": "DIESEL",
+        "alternativeFuelType": "UNDEFINED",
+        "engineConcept": "MONO_DIESEL",
+        "driveConcept": "COMBUSTOR",
+        "fuelEconomy": {
+          "fuelConsumptionCityMin": {
+            "value": 5,
+            "unit": "l/100km"
+          },
+          "fuelConsumptionCityMax": {
+            "value": 5.6,
+            "unit": "l/100km"
+          },
+          "fuelConsumptionOverlandMin": {
+            "value": 3.6,
+            "unit": "l/100km"
+          },
+          "fuelConsumptionOverlandMax": {
+            "value": 4,
+            "unit": "l/100km"
+          },
+          "fuelConsumptionCombinedMin": {
+            "value": 4.1,
+            "unit": "l/100km"
+          },
+          "fuelConsumptionCombinedMax": {
+            "value": 4.5,
+            "unit": "l/100km"
+          },
+          "emissionCO2Min": {
+            "value": 109,
+            "unit": ""
+          }
+        },
+        "powerHp": {
+          "value": 190,
+          "unit": "ch"
+        },
+        "powerKw": {
+          "value": 140,
+          "unit": "kW"
+        },
+        "cylinder": "4",
+        "cylinderValves": {
+          "value": 4,
+          "unit": ""
+        },
+        "cylinderArrangement": {
+          "value": 4,
+          "unit": ""
+        },
+        "capacity": {
+          "value": 1950,
+          "unit": "cc"
+        },
+        "emissionStandard": "Euro 6d ISC",
+        "engineTorque": {
+          "value": 400,
+          "unit": "Nm"
+        },
+        "typeOfPropulsion": "4x2",
+        "compressionRatio": {
+          "value": 15.5,
+          "unit": ""
+        },
+        "engineSpeedNominalTorqueMin": {
+          "value": 1600,
+          "unit": "1/min"
+        },
+        "engineSpeedNominalTorqueMax": {
+          "value": 2600,
+          "unit": "1/min"
+        },
+        "engineSpeedNominalOutputMin": {
+          "value": 3800,
+          "unit": "tr/min"
+        },
+        "engineSpeedNominalOutputMax": {
+          "value": 3800,
+          "unit": "tr/min"
+        }
+      },
+      "dimensions": {
+        "length": {
+          "value": 4549,
+          "unit": "mm"
+        },
+        "width": {
+          "value": 1992,
+          "unit": "mm"
+        },
+        "height": {
+          "value": 1451,
+          "unit": "mm"
+        },
+        "turnCircle": {
+          "value": 11,
+          "unit": "m"
+        },
+        "luggageSpaceClosed": {
+          "value": 395,
+          "unit": "L"
+        }
+      },
+      "energyEfficiencyClass": "A+",
+      "transmission": {
+        "name": "Boite de vitesses automatique 8G-DCT",
+        "code": "426",
+        "codeType": "GC",
+        "transmissionType": "auto."
+      },
+      "acceleration": {
+        "value": 7.1,
+        "unit": "s"
+      },
+      "topSpeed": {
+        "value": 246,
+        "unit": "km/h"
+      },
+      "doors": 4,
+      "seats": 5,
+      "actualMass": {
+        "value": 1583,
+        "unit": "kg"
+      },
+      "payload": {
+        "value": 500,
+        "unit": "kg"
+      },
+      "capacityWithReserve": {
+        "value": 43,
+        "unit": "L"
+      },
+      "reserveTankCapacity": {
+        "value": 5,
+        "unit": "L"
+      },
+      "permanentRoofLoad": {
+        "value": 75,
+        "unit": "kg"
+      },
+      "kerbWeight": {
+        "value": 1540,
+        "unit": "kg"
+      },
+      "dragCoefficient": "0,231",
+      "luggageSpace": {
+        "luggageSpaceClosed": {
+          "value": 395,
+          "unit": "L"
+        }
+      },
+      "weights": {
+        "unloadedWeight": {
+          "value": 1540,
+          "unit": "kg"
+        },
+        "maximumWeight": {
+          "value": 2040,
+          "unit": "kg"
+        },
+        "maximumWeightRoof": {
+          "value": 75,
+          "unit": "kg"
+        },
+        "maximumTrailingLoadWithBrakes": {
+          "value": 1600,
+          "unit": "kg"
+        },
+        "maximumTrailingLoadWithoutBrakes": {
+          "value": 750,
+          "unit": "kg"
+        }
+      },
+      "activeDriveCycle": "WLTP",
+      "nedc": {
+        "consumption": {
+          "city": {
+            "primaryGear": {
+              "individual": {
+                "value": 5,
+                "unit": "l/100km"
+              },
+              "min": {
+                "value": 5,
+                "unit": "l/100km"
+              },
+              "max": {
+                "value": 5.6,
+                "unit": "l/100km"
+              }
+            }
+          },
+          "country": {
+            "primaryGear": {
+              "individual": {
+                "value": 3.6,
+                "unit": "l/100km"
+              },
+              "min": {
+                "value": 3.6,
+                "unit": "l/100km"
+              },
+              "max": {
+                "value": 4,
+                "unit": "l/100km"
+              }
+            }
+          },
+          "combined": {
+            "primaryGear": {
+              "individual": {
+                "value": 4.1,
+                "unit": "l/100km"
+              },
+              "min": {
+                "value": 4.1,
+                "unit": "l/100km"
+              },
+              "max": {
+                "value": 4.5,
+                "unit": "l/100km"
+              }
+            }
+          }
+        },
+        "emission": {
+          "city": {
+            "primaryGear": {
+              "individual": {
+                "value": 133,
+                "unit": "g/km"
+              },
+              "min": {
+                "value": 133,
+                "unit": "g/km"
+              },
+              "max": {
+                "value": 148,
+                "unit": "g/km"
+              }
+            }
+          },
+          "country": {
+            "primaryGear": {
+              "individual": {
+                "value": 95,
+                "unit": "g/km"
+              },
+              "min": {
+                "value": 94,
+                "unit": "g/km"
+              },
+              "max": {
+                "value": 104,
+                "unit": "g/km"
+              }
+            }
+          },
+          "combined": {
+            "primaryGear": {
+              "individual": {
+                "value": 109,
+                "unit": "g/km"
+              },
+              "min": {
+                "value": 109,
+                "unit": "g/km"
+              },
+              "max": {
+                "value": 119,
+                "unit": "g/km"
+              }
+            }
+          }
+        },
+        "weight": {
+          "individual": {
+            "value": 1590,
+            "unit": "kg"
+          },
+          "min": {
+            "value": 1590,
+            "unit": "kg"
+          },
+          "max": {
+            "value": 1590,
+            "unit": "kg"
+          }
+        }
+      },
+      "wltp": {
+        "consumption": {
+          "low": {
+            "primaryGear": {
+              "individual": {
+                "value": 6.6,
+                "unit": "l/100km"
+              },
+              "min": {
+                "value": 6.5,
+                "unit": "l/100km"
+              },
+              "max": {
+                "value": 7,
+                "unit": "l/100km"
+              }
+            }
+          },
+          "medium": {
+            "primaryGear": {
+              "individual": {
+                "value": 5.2,
+                "unit": "l/100km"
+              },
+              "min": {
+                "value": 5.1,
+                "unit": "l/100km"
+              },
+              "max": {
+                "value": 5.7,
+                "unit": "l/100km"
+              }
+            }
+          },
+          "high": {
+            "primaryGear": {
+              "individual": {
+                "value": 4.1,
+                "unit": "l/100km"
+              },
+              "min": {
+                "value": 4,
+                "unit": "l/100km"
+              },
+              "max": {
+                "value": 4.5,
+                "unit": "l/100km"
+              }
+            }
+          },
+          "extraHigh": {
+            "primaryGear": {
+              "individual": {
+                "value": 4.8,
+                "unit": "l/100km"
+              },
+              "min": {
+                "value": 4.5,
+                "unit": "l/100km"
+              },
+              "max": {
+                "value": 5.2,
+                "unit": "l/100km"
+              }
+            }
+          },
+          "total": {
+            "primaryGear": {
+              "individual": {
+                "value": 4.9,
+                "unit": "l/100km"
+              },
+              "min": {
+                "value": 4.7,
+                "unit": "l/100km"
+              },
+              "max": {
+                "value": 5.3,
+                "unit": "l/100km"
+              }
+            }
+          }
+        },
+        "emission": {
+          "low": {
+            "primaryGear": {
+              "individual": {
+                "value": 172,
+                "unit": "g/km"
+              },
+              "min": {
+                "value": 169,
+                "unit": "g/km"
+              },
+              "max": {
+                "value": 184,
+                "unit": "g/km"
+              }
+            }
+          },
+          "medium": {
+            "primaryGear": {
+              "individual": {
+                "value": 136,
+                "unit": "g/km"
+              },
+              "min": {
+                "value": 133,
+                "unit": "g/km"
+              },
+              "max": {
+                "value": 149,
+                "unit": "g/km"
+              }
+            }
+          },
+          "high": {
+            "primaryGear": {
+              "individual": {
+                "value": 108,
+                "unit": "g/km"
+              },
+              "min": {
+                "value": 104,
+                "unit": "g/km"
+              },
+              "max": {
+                "value": 119,
+                "unit": "g/km"
+              }
+            }
+          },
+          "extraHigh": {
+            "primaryGear": {
+              "individual": {
+                "value": 125,
+                "unit": "g/km"
+              },
+              "min": {
+                "value": 118,
+                "unit": "g/km"
+              },
+              "max": {
+                "value": 138,
+                "unit": "g/km"
+              }
+            }
+          },
+          "total": {
+            "primaryGear": {
+              "individual": {
+                "value": 128,
+                "unit": "g/km"
+              },
+              "min": {
+                "value": 124,
+                "unit": "g/km"
+              },
+              "max": {
+                "value": 140,
+                "unit": "g/km"
+              }
+            }
+          }
+        },
+        "certification": {
+          "hydrocarbons": {
+            "individual": {
+              "value": 75.8,
+              "unit": "mg/km"
+            },
+            "min": {
+              "value": 75.8,
+              "unit": "mg/km"
+            },
+            "max": {
+              "value": 75.8,
+              "unit": "mg/km"
+            }
+          },
+          "nitricOxide": {
+            "individual": {
+              "value": 22.3,
+              "unit": "mg/km"
+            },
+            "min": {
+              "value": 22.3,
+              "unit": "mg/km"
+            },
+            "max": {
+              "value": 22.3,
+              "unit": "mg/km"
+            }
+          },
+          "nonMethaneHydrocarbons": {
+            "individual": {
+              "value": 0,
+              "unit": "mg/km"
+            },
+            "min": {
+              "value": 0,
+              "unit": "mg/km"
+            },
+            "max": {
+              "value": 0,
+              "unit": "mg/km"
+            }
+          },
+          "particulateEmission": {
+            "individual": {
+              "value": 0.74,
+              "unit": "mg/km"
+            },
+            "min": {
+              "value": 0.74,
+              "unit": "mg/km"
+            },
+            "max": {
+              "value": 0.74,
+              "unit": "mg/km"
+            }
+          },
+          "particulateNumber": {
+            "individual": {
+              "value": 4.83,
+              "unit": "km^-1"
+            },
+            "min": {
+              "value": 4.83,
+              "unit": "km^-1"
+            },
+            "max": {
+              "value": 4.83,
+              "unit": "km^-1"
+            }
+          },
+          "totalHydrocarbonsNitricOxide": {
+            "individual": {
+              "value": 28.1,
+              "unit": "mg/km"
+            },
+            "min": {
+              "value": 28.1,
+              "unit": "mg/km"
+            },
+            "max": {
+              "value": 28.1,
+              "unit": "mg/km"
+            }
+          },
+          "totalHydrocarbons": {
+            "individual": {
+              "value": 0,
+              "unit": "mg/km"
+            },
+            "min": {
+              "value": 0,
+              "unit": "mg/km"
+            },
+            "max": {
+              "value": 0,
+              "unit": "mg/km"
+            }
+          },
+          "deviationFactor": {
+            "individual": {
+              "value": 0,
+              "unit": ""
+            },
+            "min": {
+              "value": 0,
+              "unit": ""
+            },
+            "max": {
+              "value": 0,
+              "unit": ""
+            }
+          },
+          "verificationFactor": {
+            "individual": {
+              "value": 0,
+              "unit": ""
+            },
+            "min": {
+              "value": 0,
+              "unit": ""
+            },
+            "max": {
+              "value": 0,
+              "unit": ""
+            }
+          }
+        }
+      },
+      "tyres": {
+        "frontTyres": "205/55 R17",
+        "backTyres": "205/55 R17",
+        "frontAxle": "Längslenker",
+        "backAxle": "McPherson",
+        "frontBrakes": "Scheiben, innenbelüftet",
+        "rearBrakes": "Scheiben, massiv",
+        "frontSuspension": "Schraubenfeder",
+        "rearSuspension": "Schraubenfeder"
+      }
+    },
+    "wltpConfiguration": true,
+    "_links": {
+      "self": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/initial?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78",
+      "image": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/images/vehicle?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78",
+      "selectables": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models/1771141_FR3/configurations/AJ-050_AU-651_GC-426_LE-L_LU-696_MJ-800_PC-431-950-P44-P49-PYA-PYI-PYM-U59-U62_SA-07B-08U-09U-20U-213-218-235-243-249-258-270-286-287-294-310-345-351-355-362-365-367-440-446-475-500-504-51U-537-543-548-580-632-677-73B-772-79B-7U4-859-916-927-968-971-B18-B51-B59-L5C-R01-RQS-U01-U10-U26-U55-U60-U79_SC-084-085-0B2-189-1B3-1U5-2U1-2U8-3U6-502-51B-6P5-6U0-8U6-8U8-98B-998-B09-K13-PXV-V50/selectables?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+    }
+  }
+]

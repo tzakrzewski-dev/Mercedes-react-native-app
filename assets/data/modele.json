@@ -1,0 +1,101 @@
+[
+  {
+    "bodyId": "CABRIOLET",
+    "bodyName": "Cabriolet",
+    "img": "https://assets.oneweb.mercedes-benz.com/iris/iris.jpg?COSY-EU-100-1713d0VXqNEFqtyO35PobzIExXrItvsTQKkojUfGoo7GE11KFm9mWa9Q6FjcBXBUuXGEAnjJ0l56qOB2CbjbApz7VI5uV52QC3qsFkzNR%256m7jxc3hKV1bF%25vqwIqyLRZY2YaxFrqrH19g1n8wDPxoiZEbIM4FlIDTg92t36PDp%25bSeWuyjtsd3YxcUfNF6XGEj9wJ0leYJOB2s8%25bApUPyI5uGmxQC30hpkzNBJ9m7jAhvhKV5Tt%25vq4t9yLRgcHYaxPa9rH1eCun8wsofoiZUJZM4Fn4JTg9ovn6PDMIbSeWzaRtsd7H%25cUfKONXGEvTSJ0lL6AOB2azRbApenRI5us6MQC3UXQkzNGJKm7j0amhKV3KL%25vqNUlyLRj3VYaxVkSrH1gItn8wPQboiZeIQM6oY2ulKykzNL6Sm%25kFpKhymuzd%25vqsvTyLR0Wm7tRedhKktqf%25vmONEyLhpLlYa%25u12rHyFspn8YKBuoirFZ3M4n5BNTgoC8j6PMz6VSevWFqtsL4QRcUXfDxXGJEV1J0OJKwOBbnRZbAIoQFI5QUa9QCkxNDkSgMAwEHv4Wgh5ol3nzNW7CB%25%25LeEsKx7sdRUe4J4NCNr56tYBn5ha%25sZ7s&imgt=P27&pov=BE030,DZO&crop=400,250,1550,830&width=1400",
+    "_links": {
+      "self": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/bodies/CABRIOLET?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78",
+      "models": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models?bodyId=CABRIOLET&apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+    }
+  },
+  {
+    "bodyId": "ROADSTER",
+    "bodyName": "Roadster",
+    "img": "https://assets.oneweb.mercedes-benz.com/iris/iris.jpg?COSY-EU-100-1713d0VXqb8FqtyO35PobzIExXrItvsTQKkojUfGoo7GE11KFm9e9F9Q6FjcBXBUuXGEAa3J0l5oVOB2CSRbApzIVI5u7KqQC3dhRkzNftxm7jE21hKV1SM%25vqwt%25yLRZLVYaxF0WrH19M%25n8wDTboiZWkgM4FdmwTg9fY36PDES6SeWumItsd3YQcUfNF6XGEj9wJ0leYJOB2s8nbApUkCI5uGfDQC30XFkzNBJ6m7j86ZhKViKh%25vq4BTyLRgA2YaxPbSrH1eIln8wsocoiZUe1M4FnIwTg9ogE6PDMLoSeWTwUtsd7HVcUfKONXGE4yjJ0lg6JOB2PSFbApeIXI5ul5ZQC32gWkzNplum7jacohKVHtc%25YhQDd9BIXGE5YrJbXqWBOIJdGwbApPARI5ui5YQC3PwOBoeKZbAJDAFI5OW39QCbVCDkzI0zWm7QqGdhKUVdf%25vGKUEyLYyPlYarJe2rHn7wpn8ouauoiMST3M4Tt8NTmCI82R0s5jCmVXxLCg9jP4HttU7RKeEPKVfv75Y5949JikhXHOiSGtKpPK&imgt=P27&pov=BE030,DZO&crop=400,250,1550,830&width=1400",
+    "_links": {
+      "self": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/bodies/ROADSTER?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78",
+      "models": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models?bodyId=ROADSTER&apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+    }
+  },
+  {
+    "bodyId": "SHOOTING BRAKE",
+    "bodyName": "Shooting Brake",
+    "img": "https://assets.oneweb.mercedes-benz.com/iris/iris.jpg?COSY-EU-100-1713d0VXqN8FqtyO35PobzIExXrItvsTQKkojUfGoo7GE11KFm9mWa9Q6FjcBXBUuXGEAnjJ0l56qOB2CbjbApz7VI5uV52QC3qsFkzNR%256m7jxc3hKV1bF%25vqwIqyLRZY2YaxF4xrH1dJOn8wfOFoiZE6pM4FlmJTg92h36PDp%25qSeWuwMtsd3ZxcUfgLkXGEPimJ0leIVOB2sQEbApUtwI5uGQzQC3aM1kzNHTKm7j871hKVi0E%25vq4y9yLRgSRYax%25aSrH1yC%25n8w0A2oiZB7IM4FAyrTg95Ye6PDCGuSeWHmutsd8J3cUfiryXGE4TBJ0lgCVOB2PzObApEACI5ul4DQC32EpkzNpJnm7jacohKVHXt%25vq8cXyr%25kWfDAQJ0lCrnOIJRdAbQOf0ZI5ui5YQC3PwOBo38ZbAJouFI5OSl9QCbdCDkzIfjWm7QBPdhKkqVf%25vmseEyLhUelYa%25GK2rHy0rpn85wRuoiCLX3M4TF1NTg6TBj6PSmuVSethcqtsciCRcUX3ExXGJ1V1J0OwawOoHYUqDKCaZHIGyMlHB2ZA0sQQziD45jA4FNgiaSa202hGnMms%25GI7Q4RA4&imgt=P27&pov=BE030&crop=400,250,1550,830&width=1400",
+    "_links": {
+      "self": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/bodies/SHOOTING%20BRAKE?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78",
+      "models": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models?bodyId=SHOOTING%20BRAKE&apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+    }
+  },
+  {
+    "bodyId": "4-TUERER COUPE",
+    "bodyName": "Coupé 4 Portes",
+    "img": "https://assets.oneweb.mercedes-benz.com/iris/iris.jpg?COSY-EU-100-1713d0VXqNWFqtyO35PobzIExXrItvsTQKkojUfGoo7GE11KFm9mWa9Q6FjcBXBUuXGEAnjJ0l56qOB2CbjbApz7VI5uV52QC3qs3kzNRU9m7jxyvhKV1Yt%25vqwJjyLRZQDYaxFkxrH19nun8wDPfoiZEbIM4FlIDTg92hO6PDp%25NSeWuyRtsd3ZTcUfNF1XGEPamJ0le4hOB2sQqbApUklI5uGfuQC30XFkzNHTwm7j86vhKViKw%25vq4BlyLRgYDYaxP4qrH1yC%25n8wYh3oiZB7gM4FAKjTg95Yn6PDCrsSeWz03tsd8h3cUfiFWXGE4TXJ0lg6AOB2Pz%25bApEACI5ul4DQC32EpkzNLzKm7jacShKVHtc%25YhQDd9BIXGE5YrJbXqWBOIJdGKbAp4xXGrpa1J0cr2wOBXTfZbAJDAFI5OW39QCbG4DkzIjNWm7QP4dhKkeCf%25vms%25EyL0RjlYaBxn2rHA7opn857FuoiMZx3M4TF9NTg6TBj6PSmuVSeth7qtsc%25XRcUX4zxXrL%25ejFzAv1LO26TImGE10UPbb5HF8B308wuiHvTvEUEksYnQPmsOCb8V08&imgt=P27&pov=BE030&crop=400,250,1550,830&width=1400",
+    "_links": {
+      "self": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/bodies/4-TUERER%20COUPE?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78",
+      "models": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models?bodyId=4-TUERER%20COUPE&apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+    }
+  },
+  {
+    "bodyId": "OFFROADER",
+    "bodyName": "SUV",
+    "img": "https://assets.oneweb.mercedes-benz.com/iris/iris.jpg?COSY-EU-100-1713d0VXqNEFqtyO35PobzIExXrItvsTQKkojUfGoo7GE11KFm9whk9Q6FjcBXBrNXGEATVJ0l5ONOB2CzjbApjnVI5uV52QC3qsFkzNR%25km7jxyShKV1XN%25vqwI9yLRZYHYaxFrprH19g1n8wf8foiZE6pM4FlmJTg92h36PDp1oSeWuwjtsd3ZxcUfg%25NXGEPaBJ0le4VOB2sg%25bApUkRI5uGmzQC30XFkzNBm9m7j86ZhKViSV%25vq4vZyLRgA2YaxPoYrH1eMRn8wsocoiZr7YM4FnRwTg95z36PDCLuSeWznMtsd7BNcUfKmfXGE4yjJ0lgIVOB2PQFbApeToI5usKxQC32C7kzNpPdm7juyIhKV3XF%25vqNujyLRjQ6Yax4aqrH1gItn8wPQboiZeIQM6oY2ulKykzNL6Sm%25kFpKhymuzh%25vqBukyLR0Wm7tRedhKklKf%25vm2REyLhUslYa%25GK2rHy0rpn85wRuoiCKZ3M4TF1NTg6TBj6PSmtVSetY7qtsclKRcUX2ExXGJg71J0OPqwOBbVpZbM8rGRWvzHF8Q4oG2JApF5BUkk74WgCV5g9jP4HtHpBp%250oThUy0QKkgx5g&imgt=P27&pov=BE030&crop=400,250,1550,830&width=1400",
+    "_links": {
+      "self": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/bodies/OFFROADER?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78",
+      "models": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models?bodyId=OFFROADER&apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+    }
+  },
+  {
+    "bodyId": "T-MODELL",
+    "bodyName": "Break",
+    "img": "https://assets.oneweb.mercedes-benz.com/iris/iris.jpg?COSY-EU-100-1713d0VXqN8FqtyO35PobzIExXrItvsTQKkojUfGoo7GE11KFm9mWa9Q6FjcBXBUuXGEAnjJ0l56qOB2CbjbApz7VI5uV52QC3qsFkzNR%256m7jxc3hKV1bF%25vqwIqyLRZY2YaxF4xrH1dJOn8wfOFoiZE6pM4FlmJTg92h36PDp%25qSeWuwMtsd3ZxcUfgLkXGEPimJ0leIVOB2sQEbApUtwI5uGQzQC3aM1kzNHTKm7j871hKVi0E%25vq4y9yLRgSRYax%25aSrH1yC%25n8w0A2oiZB7IM4FAyrTg95Ye6PDCGuSeWHmutsd8J3cUfiryXGE4TBJ0lgCVOB2PzObApEACI5ul4DQC32EpkzNpJnm7jacohKVHXt%25vq8cXyr%25kWfDAQJ0lCrnOIJRdAbQOf0ZI5ui5YQC3PwOBo38ZbAJouFI5OSl9QCbdCDkzIfjWm7QBPdhKkqVf%25vmseEyLhUelYa%25GK2rHy0rpn85wRuoiCLX3M4TF1NTg6TBj6PSmuVSethcqtsciCRcUX3ExXGJ1V1J0OwawOoHYUqDKCaZHIGyMlHB2ZA0sQQziD45jA4FNgiaSa202hGnMms%25GI7Q4RA4&imgt=P27&pov=BE030&crop=400,250,1550,830&width=1400",
+    "_links": {
+      "self": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/bodies/T-MODELL?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78",
+      "models": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models?bodyId=T-MODELL&apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+    }
+  },
+  {
+    "bodyId": "GELAENDEWAGEN",
+    "bodyName": "Véhicule tout-terrain",
+    "img": "https://assets.oneweb.mercedes-benz.com/iris/iris.jpg?COSY-EU-100-1713d0VXqNYFqtyO35PobzIExXrItvsTQKkojUfGoo7GE11KFm9mWa9Q6FjcBXBUuXGEAnjJ0l56qOB2CbjbApz7VI5uV52QC3qsFkzNR%256m7jxc3hKV1bF%25vqwIqyLRZiRYaxWXJrH1dJZn8wfT2oiZEkXM4FlmuTg92xn6PDp1NSeWuwRtsd4vQcUfg8kXGEPbjJ0leIAOB2sS1bApUICI5uLoxQC3aCRkzNHUdm7j8y3hKVi%25F%25vqmvTyLRhAmYaxU0YrH1GBln8w0zboiZB%25YM4FAs2Tg9LQ26PDacpSeWHyItsd8Y%25cUfiM0XGE45jJ0lgCJOB2frqbApEACI5ul4DQC32EpkzNpJnm7jacohKVHXt%25vq8cXyr%25kWfDAQJ0lCrnOIJRdAbQOf0ZI5ui5YQC3PwOBo38ZbAJouFI5OSl9QCbdCDkzIfjWm7QBPdhKkqVf%25vmseEyLhUelYa%25GK2rHy0rpn85wRuoiCKZ3M4TF1NTg6TBj6PSmuVSethcqtscrKRcUX4zxXGJNl1J0OwqwOBbZHZbM8rGRWvzHF8Q5H%25wBApF5BUkk74WgCV5g9jP4HtHpBp%250oThUy0QKkgx5g&imgt=P27&pov=BE030&crop=400,250,1550,830&width=1400",
+    "_links": {
+      "self": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/bodies/GELAENDEWAGEN?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78",
+      "models": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models?bodyId=GELAENDEWAGEN&apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+    }
+  },
+  {
+    "bodyId": "LIMOUSINE",
+    "bodyName": "Berline",
+    "img": "https://assets.oneweb.mercedes-benz.com/iris/iris.jpg?COSY-EU-100-1713d0VXqNWFqtyO35PobzIExXrItvsTQKkojUfGoo7GE11KFm9mWa9Q6FjcBXBUuXGEAnjJ0l56qOB2CbjbApz7VI5uW6qQC3qCpkzNRUNm7jxGDhKV1YL%25vqwrcyLRZOVYaxFkWrH19m1n8wDo3oiZWeZM4FdsQTg92Qk6PDpkdSeWuyItsd3YVcUfNr1XGEj9SJ0lVDZOB2s8%25bApUPyI5uGm2QC30E3kzNBl6m7jAODhKViSF%25vq4tayLRgLFYaxP5prH1endn8wsPxoiZr7YM4FnyjTg95ve6PDCLqSeWznMtsd7BNcUfi%25NXGE49dJ0lg6JOB2PS5bApe7yI5ul5ZQC32gWkzNplum7juhShKVHXM%25vq8JcyLRiXJYnymdEW5kOB2znobQOxf5IkbEBLQC34CrkzNeZbAMNiFI5OM39QCbt2DkzIfzWm7QEVdhKkAef%25vmRqEyLhUslYa%25Gs2rHy0vpn8YBnuoiCZx3M4zsRNTg69wj6PSDWVSetS5qtsctXRcUXyjxXGJYL1J0OrbwOBbevZbAIFxFITin0xdL789ikw8NhY5u9CAGmmKgdPzqCPDVeg8c8uAuyBM6%25GYBkvmP1CP&imgt=P27&pov=BE030&crop=400,250,1550,830&width=1400",
+    "_links": {
+      "self": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/bodies/LIMOUSINE?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78",
+      "models": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models?bodyId=LIMOUSINE&apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+    }
+  },
+  {
+    "bodyId": "KOMPAKT-LIMOUSINE",
+    "bodyName": "Berline compacte",
+    "img": "https://assets.oneweb.mercedes-benz.com/iris/iris.jpg?COSY-EU-100-1713d0VXqNEFqtyO35PobzIExXrItvsTQKkojUfGoo7GE11KFm9whk9Q6FjcBXBrNXGEATVJ0l5ONOB2CzjbApjnVI5uV5IQC3qCpkzNRU9m7jxymhKV1Yt%25vqwJjyLRZQDYaxFr8rH19nun8wDPwoiZEiEM4FlSuTg92hO6PDp%25NSeWuwMtsd3ZVcUfNF1XGEPaYJ0le4hOB2sQqbApUkCI5uGcZQC3aM1kzNHTNm7j871hKVi0E%25vq4r%25yLRgnVYaxPrWrH1yC%25n8wYh3oiZB7lM4FAyrTg95Up6PDCIDSeWHmutsd8Y%25cUfDU0XGEWawJ0ldoVOB2fW%25bApEdlI5uK52QC3vSrkzNLt6m7jaSthymI9WF0bcUfAyYXOcVD0JbXWUJOB2iRcUY2LxXGtZG1J0cF2wOBXHaZbAJ8nFI5OiI9QCP32DkzeL%25Wm7hjudhK%25h4f%25vycYEyLYwUlYarZ12rHn7spn8oKEuoQAOaEVUPB3AQeITgMiZ348L66eCVzgd4zNW7CB%25BZ8ZcHIktLXHTs6zl4z&imgt=P27&pov=BE030&crop=400,250,1550,830&width=1400",
+    "_links": {
+      "self": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/bodies/KOMPAKT-LIMOUSINE?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78",
+      "models": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models?bodyId=KOMPAKT-LIMOUSINE&apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+    }
+  },
+  {
+    "bodyId": "COUPE",
+    "bodyName": "Coupé",
+    "img": "https://assets.oneweb.mercedes-benz.com/iris/iris.jpg?COSY-EU-100-1713d0VXq0WFqtyO35PobzIExXrItvsTQKkojUfGoo7GE11KFm9mWa9Q6FjcBXBUuXGEAa3J0l5oVOB2CSRbApzIVI5u7KqQC3dhRkzNflxm7jEO1hKV10h%25vqwBdyLRZA1YaxFoJrH19jin8wDh2oiZEiEM4FlmJTg92xn6PDp1qSeWimItsd4htcUfgLkXGEPbdJ0le6tOB2sS1bApvnyI5uL5IQC3aCRkzNHUnm7j8GfhKViYL%25vq4JTyLRgY6Yax%250qrH1yM%25n8w0AboiZB%25YM4FAyPTg95UT6PDCGuSeWHmutsd8s3cUfiMkXGE4JSJ0lgOrOB2Pz%25bApe79I5usrxQC32gWkzNpUKm7jucZhKV3pN%25vq8JTyLRiXJYnymdEW5kOB2znobQOxf5IkbEBFQC34CrkzNgUbm7jPGmhKVe0V%25vqGDkzSqPWm7QmUdhKkJef%25vm20EyLhwLlYa%25Gs2rHy0epn85wRuoiMZx3M4TM0NTg6kCj6PSmtVSethgqtsciCRcYvhPNZCBKxvJVyMUEUfxGsgOOAaZH0uGH1p8aKMKfsfQeyrIgkeJ5OHjGH&imgt=P27&pov=BE030&crop=400,250,1550,830&width=1400",
+    "_links": {
+      "self": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/bodies/COUPE?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78",
+      "models": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models?bodyId=COUPE&apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+    }
+  },
+  {
+    "bodyId": "SPORTS TOURER",
+    "bodyName": "Sports Tourer",
+    "img": "https://images-vmds.mercedes-benz.com/images/vmds/mvp/SSPIP95707_XZ1_4478111_middle.png",
+    "_links": {
+      "self": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/bodies/SPORTS%20TOURER?apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78",
+      "models": "https://api.mercedes-benz.com/configurator/v1/markets/fr_FR/models?bodyId=SPORTS%20TOURER&apikey=74b5a34d-8a75-4dd7-a1d6-40a3d5a55f78"
+    }
+  }
+]
